@@ -35,7 +35,7 @@ Symbol:
 
 Font Class:
 ```
-////cdn.fallsoft.cn/gh/inkdust-dev/ink-oss@main/icon/ant-design/static/iconfont.css
+//cdn.fallsoft.cn/gh/inkdust-dev/ink-oss@main/icon/ant-design/static/iconfont.css
 ```
 
 Symbol:
